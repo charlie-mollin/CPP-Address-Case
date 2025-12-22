@@ -1,0 +1,8 @@
+# run 100 rows in google places
+# run 100 rows in LLM (GPT 4.1), go for this one 
+
+# what's the busine ss here (contact of business) (contact of owner) who's the owner of a building and what's the business there
+# what are the costs (token costs )
+
+# figure out the most efficient to verify this data 
+# web scraping
