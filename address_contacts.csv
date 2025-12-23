@@ -1,16 +1,18 @@
 Address,Owner Name,Owner Company Name,Owner Phone,Owner email,Business Name,Business Phone,Business Email
-"5020 Broadway, New York, NY 10034",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-"252 Newport St, Brooklyn, New York 11212",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-"214 3rd St, Brooklyn, New York, 11215",Not Found,Not Found,Not Found,Not Found,Not Available,Not Available,Not Available
-"262 11 Avenue, New York, New York, 10001",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
-"98-18 Rockaway Boulevard, Queens, New York, 11417",Not Found,Not Found,,Not Available,Not Available,Not Available,Not Available
+"5020 Broadway, New York, NY 10034",Not Found,Not Found,Not Found,Not Found,Manhattan Mini Storage (Inwood location),(212) 567‑6895,"Not Found
+
+Explanation:
+- The address 5020 Broadway appears to be part of the larger property spanning 5020–5030 Broadway, which is the site of Manhattan Mini Storage in Inwood, New York ([propertyshark.com](https://www.propertyshark.com/mason/Property/40321/5020-5036-Broadway-New-York-NY-10034/?utm_source=openai)).
+- PropertyShark lists the property as “Manhattan Mini Storage – 5030 Broadway” and indicates ownership details are behind a paywall; no owner name is publicly available ([propertyshark.com](https://www.propertyshark.com/mason/Property/40321/5020-5036-Broadway-New-York-NY-10034/?utm_source=openai)).
+- The business operating at the address is Manhattan Mini Storage (Inwood), with a publicly listed phone number (212) 567‑689"
+"2990 Cropsey Avenue, Brooklyn, NY 11214",Not Found,"CubeSmart Self Storage, Inc.",Not Found,Not Found,CubeSmart Self Storage,718‑373‑0517,"Not Found
+
+Explanation:
+- OWNER_NAME: Not Found (public records list owner as CubeSmart, but no individual name available) ([pincusco.com](https://www.pincusco.com/property/2990-cropsey-avenue/?utm_source=openai))  
+- OWNER_COMPANY_NAME: CubeSmart Self Storage, Inc. (owner entity) ([pincusco.com](https://www.pincusco.com/property/2990-cropsey-avenue/?utm_source=openai))  
+- OWNER_PHONE and OWNER_EMAIL: Not Found (not publicly available)  
+- BUSINESS_NAME: CubeSmart Self Storage (operating business at that address) ([chamberofcommerce.com](https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/self-storage-facility/45223140-cubesmart-self-storage?utm_source=openai))  
+- BUSINESS_PHONE: 718‑373‑0517 ([chamberofcommerce.com](https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/self-storage-facility/45223140-cubesmart-self-storage?utm_source=openai))  
+- BUSINESS_EMAIL: Not Found (not publicly listed)"
+"1151 East New York Avenue, Brooklyn, NY 11212",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage,(718) 778‑8800,Not Found
+"1507 Coney Island Ave, Brooklyn, NY 11230",Not Found,288 Willoughby Holdings LLC,Not Found,Not Found,Pomegranate (kosher supermarket),+1 (718) 951‑7112,Not Found
