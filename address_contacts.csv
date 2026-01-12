@@ -1,8 +1,249 @@
 Address,Owner Name,Owner Company Name,Owner Phone,Owner email,Business Name,Business Phone,Business Email
-"5020 Broadway, New York, NY 10034",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
-"## [CubeSmart Self Storage](https://www.google.com/maps/search/CubeSmart+Self+Storage+2990+Cropsey+Avenue+Brooklyn+NY?utm_source=openai)
-
-
-2990 Cropsey Avenue, Brooklyn, New York, 11214",CubeSmart Self Storage,CubeSmart Self Storage,(718) 373-0517,Not Found,CubeSmart Self Storage,(718) 373-0517,Not Found
-"1151 East New York Avenue, Brooklyn, NY 11212",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage,718-778-8800,Not Found
-"1507 Coney Island Ave, Brooklyn, NY 11230",Abraham Banda,The Kosher Garden Inc.,Not Found,Not Found,Pomegranate Supermarket,718-951-7112,[email protected]
+"95-10 Ditmars Boulevard, Queens, New York, 11369",Not Found,Not Found,Not Found,Not Found,National Car Rental,+1 (718) 429-5893,Not Found
+"1800 Shore Pkwy, Brooklyn, New York, 11214",Not Found,Not Found,Not Found,Not Found,Mercedes-Benz of Brooklyn,929-684-1005,Not Found
+"40-40 Northern Boulevard, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Lexus of Queens,(347) 394-4566,Not Found
+"69-10 34 Avenue, Queens Borough, New York, 11377",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1600 Hylan Boulevard, Staten Island, New York, 10305",Wilkinson Family,Not Found,Not Found,Not Found,Rab's Country Lanes,718-979-1600,Not Found
+"2417 HOLLERS AVENUE, Bronx, New York, 10475",Gus Monzidelis,Bowlerland,718-994-8700,bowlerland@gmail.com,Bowlerland,718-994-8700,bowlerland@gmail.com
+"1121 Bedford Ave, Brooklyn, New York, 11216",Not Found,Not Found,Not Found,Not Found,Bedford-Stuyvesant Branch YMCA,718-789-1497,Not Found
+"330 E 61ST ST NEW YORK NY, NEW YORK, New York, 10065",Not Found,Not Found,Not Found,Not Found,Equinox East 61st Street,(212) 355-5100,Not Found
+"505 West 218th Street, New York, New York, 10034",Columbia University,Columbia University,Not Found,Not Found,Campbell Sports Center,(212) 567-5670,Not Found
+"28-56 Steinway St, Queens, New York, 11103",2856 ASTORIA LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"207 Beach 73rd St, Averne, New York, 11692",Arverne Community Center Corp,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"897 BROADWAY NEW YORK, NEW YORK, New York, 10003",Not Found,Not Found,Not Found,Not Found,Equinox Flatiron,212-780-9300,Not Found
+"363 West 16th Street, New York, New York, 10011",James Palmer,The Maritime Hotel,(212) 242-4300,james@themaritimehotel.com,The Maritime Hotel,(212) 242-4300,info@themaritimehotel.com
+"848 Washington Street, Manhattan, New York, 10014",Gaw Capital,"GC SHL, LLC",Not Found,Not Found,"The Standard, High Line",212-645-4646,[email protected]
+"147 W 43rd St, New York, New York, 10036",Not Found,Not Found,Not Found,Not Found,Casablanca Hotel,(212) 869-1212,Not Found
+"212 East 42nd Street, New York, New York, 10017",Davidson Kempner Capital Management,Not Found,Not Found,Not Found,The Westin New York Grand Central,+1-212-490-8900,Not Found
+"1535 Broadway, New York, New York, 10036",Not Found,Not Found,Not Found,Not Found,New York Marriott Marquis,212-398-1900,Not Found
+"130 West 44th Street, Manhattan, New York, 10036",Ben-Josef Group Holdings,Not Found,Not Found,Not Found,"The Chatwal, New York",+1 (212) 764-6200,Not Found
+"377 Greenwich Street, New York, New York, 10013",377 Greenwich LLC,Not Found,Not Found,Not Found,The Greenwich Hotel,212-941-8900,frontdesk@thegreenwichhotel.com
+"40 West 40th Street, New York, New York, 10001",Philips Bryant Park LLC,Not Found,Not Found,Not Found,The Bryant Park Hotel,Not Found,Not Found
+"377 Greenwich St, New York, New York, 10013",377 Greenwich LLC,Not Found,Not Found,Not Found,The Greenwich Hotel,(212) 941-8900,info@thegreenwichhotel.com
+"335 Bowery, New York, New York, 10003","Sean MacPherson, Eric Goode, Ira Drukier, Richard Born",The Bowery Hotel LLC,Not Found,Not Found,The Bowery Hotel,212-505-9100,[email protected]
+"308 West 58th Street, New York, New York, 10019",308 West 58 LLC,Not Found,+1 (212) 445-0200,Not Found,Six Columbus,Not Found,Not Found
+"29 9th Avenue, New York, New York, 10014",Soho House New York Inc.,Soho House New York,+1 (212) 627-9800,[email protected],Soho House New York,+1 (212) 627-9800,[email protected]
+"97 Wythe Avenue, NYC, New York, 11249",87 Wythe Holding LLC,Not Found,Not Found,Not Found,"The Hoxton, Williamsburg",Not Found,Not Found
+"80 Wythe Ave, Brooklyn, New York, 11249",Peter Lawrence,Wythe Hotel,Not Found,Not Found,Wythe Hotel,(718) 460-8000,info@wythehotel.com
+"96 Wythe Ave, Brooklyn, NY 11249, Brooklyn, New York, 11249",96 Wythe Acquisition LLC,Not Found,718-362-8100,events@thewilliamsburghotel.com,The Williamsburg Hotel,718-362-8100,events@thewilliamsburghotel.com
+"95 West Broadway, New York, New York, 10007",Not Found,Not Found,Not Found,Not Found,The Frederick Hotel,(212) 566-1900,[email protected]
+"210 W 55th St, New York, New York, 10019",Not Found,Not Found,Not Found,Not Found,Dream Midtown Hotel,Not Found,Not Found
+"361 Bedford Ave, Brooklyn, New York, 11211",Lightstone Group,Not Found,Not Found,Not Found,Moxy Williamsburg,Not Found,Not Found
+"210 WEST 55 STREET, NEW YORK, New York, 10019",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"189 Bowery Street, New York, New York, 10002",citizenM Hotels,citizenM Hotels,+1 (212) 372-7274,Not Found,citizenM New York Bowery,+1 (212) 372-7274,Not Found
+"405 East 73rd Street, New York, New York, 10021",Not Found,Not Found,Not Found,Not Found,Ronald McDonald House of New York,212-639-0100,[email protected]
+"1170 Broadway, New York City, New York, 10001",Not Found,Not Found,Not Found,Not Found,The Ned NoMad,Not Found,Not Found
+"180 Ludlow st, New York, New York, 10002",BD Hotels,Not Found,Not Found,Not Found,The Ludlow Hotel,212-432-1818,info@ludlowhotel.com
+"712 7th Avenue, New York, New York, 10036",Not Found,Not Found,Not Found,Not Found,New York Iconic Tours,+1 (800) 299-4412,Not Found
+"252-260 West 40th Street, New York, New York, 10018",OTO Development,OTO Development,864-596-8930,info@otodevelopment.com,AC Hotel New York Times Square,212-221-7000,Not Found
+"503 Canal Street, New York, New York, 10013",Ponte Equities,Not Found,Not Found,Not Found,Arlo Hudson Square,Not Found,Not Found
+"75 NORTH 11 STREET, Brooklyn, New York, 11249",WYTHEHOTEL LLC,Not Found,Not Found,Not Found,Wythe Hotel,Not Found,Not Found
+"147 Mercer Street, New York, New York, 10012",BD Hotels,Not Found,Not Found,Not Found,The Mercer Hotel,212-966-6060,Not Found
+"299 Madison Ave, New York, New York, 10017",299 Madison Hotel LLC,Not Found,Not Found,Not Found,Library Hotel,Not Found,Not Found
+"60 THOMPSON STREET, Manhattan, New York, 10012",Pomeranc Group,Not Found,Not Found,Not Found,Sixty SoHo,212-431-0400,Not Found
+"209 WEST 87TH STREET, New York, New York, 10024",Not Found,Not Found,Not Found,Not Found,The Belnord Hotel,+1 (212) 873-5222,Not Found
+"124 EAST 66 STREET, New York, New York, 10065",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"112 East 11th Street, New York, New York, 10003",Lightstone Group,Not Found,Not Found,Not Found,Moxy East Village,(212) 288-6699,info@moxyeastvillage.com
+"220-33 NORTHERN BLVD, NEW YORK, New York, 11361",Joe Martelli,Not Found,Not Found,Not Found,Ramada Inn,(718) 631-4900,Not Found
+"196 Grand St, New York, New York, 10013",196 GRAND LLC,Not Found,Not Found,Not Found,NobleDEN Hotel,(212) 390-8988,contact@nobleden.com
+"30 Kenmare St, New York, NY 10012, New York, New York, 10012",Edmond Li,Veracity Equities,Not Found,Not Found,The Nolitan Hotel,+1 (212) 925-2555,Not Found
+"60 E. 54th St., New York, New York, 10022",ELYSEE OPERATING CORP,Not Found,Not Found,Not Found,Hotel Elysee,(212) 753-1066,[email protected]
+"31 West 71 Street, New York, New York, 10023",71ST ST STUDIOS INC,Not Found,Not Found,Not Found,Comfort Inn Central Park West,212-721-4770,Not Found
+"220-33 Northern Blvd, Queens, New York, 11361",Not Found,Not Found,Not Found,Not Found,Best Western Queens Gold Coast,(718) 631-4900,Not Found
+"79 Crosby Street, New York, New York, 10012",Firmdale Hotels,Firmdale Hotels,+1 (212) 226-6400,crosby@firmdale.com,Crosby Street Hotel,+1 (212) 226-6400,crosby@firmdale.com
+"252 W 40th Street, New York, New York, 10018",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"33 W 37th St, New York, New York, 10018",54M 33W37 LLC,Not Found,Not Found,Not Found,Marriott Vacation Club Pulse,Not Found,Not Found
+"205 WEST 40 STREET, New York, New York, 10018",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"211 WEST 101ST STREET, New York, New York, 10025",Frant Hotel LLC,Frant Hotel LLC,(212) 864-7400,Not Found,Frant Hotel,(212) 864-7400,Not Found
+"22 MILFORD STREET, Brooklyn, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"242 GREEN STREET, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"4435 Victory Boulevard, Staten Island, New York, 10314",Not Found,Not Found,Not Found,Not Found,Visy Paper,(718) 370-1114,Not Found
+"56-20 59th Street, Maspeth, New York, 11378",Not Found,Not Found,Not Found,Not Found,Alle Processing Corp,(718) 894-2000,[email protected]
+"58-80 59 STREET, QUEENS, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"959 ESSEX ST, BROOKLYN, New York, 11208",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"781 East 133rd Street AKA 780 East 134th Street, Bronx, New York, 10454",1G MONTAGUE CORP.,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"112-02 15 AVENUE, Queens, New York, 11356",Not Found,Not Found,Not Found,Not Found,Pepsi Cola Bottling Co of New York,718-357-8000,Not Found
+"970 Shepherd Ave, Brooklyn, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2570 Whitestone Expressway, Flushing, New York, 11354",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"171 WALWORTH STREET, Brooklyn, New York, 11205",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1700 Bathgate Ave, Bronx, New York, 10457",Sophie Naftalovich,Perrigo New York Inc,718-960-0141,Not Found,Perrigo New York Inc,718-901-2800,Not Found
+"155 Food Center Dr., Bronx, New York, 10474",Michael Muzyk,Baldor Specialty Foods Inc,(718) 860-9100,michael@baldorfood.com,Baldor Specialty Foods,(718) 860-9100,careers@baldorfood.com
+"156 Sanford Street, Brooklyn, New York, 11205",Van Blarcom Closures Inc,Van Blarcom Closures Inc,(718) 855-3810,Not Found,Van Blarcom Closures Inc,(718) 855-3810,Not Found
+"630 Flushing Avenue, Brooklyn, New York, 11206",Acp BK 1 LLC,Acp BK 1 LLC,(718) 360-9501,Not Found,"Bushwick Kitchen, LLC",(917) 297-1045,Not Found
+"116 39th Street, Brooklyn, New York, 11232",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"123 Varrick Ave, Brooklyn, New York, 11237",Not Found,Not Found,Not Found,Not Found,Eastern Waste of New York,718-821-5289,Not Found
+"2111 RICHMOND TERRACE, Staten Island, New York, 10302",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"5401 1st Ave, Brooklyn, New York, 11220",Not Found,Not Found,Not Found,Not Found,Paradise Plastics,(718) 576-3218,Not Found
+"1776 HOE AVENUE, Bronx, New York, 10460",Mega Contracting Group,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"5700 Avenue D, Brooklyn, New York, 11203",5700 Ave D LLC,Not Found,Not Found,Not Found,Beigel's Bakery,(718) 388-4031,beigelsbakery.com
+"112-07 14th Ave, College Point, New York, 11356",Not Found,Not Found,Not Found,Not Found,Precision Gear Inc,(718) 321-7200,Not Found
+"2025 ATLANTIC AVENUE, BROOKLYN, New York, 11233",1795 ATLANTIC AVE LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"96-03 Beach Channel Drive, Queens, New York, 11693",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"18-35 Steinway place, Long Island City, New York, 11105",Carole White,18-35 Steinway Place Inc.,Not Found,Not Found,White Coffee Corporation,718-204-7900,Not Found
+"300 Vandervoort Avenue, Brooklyn, New York, 11211",Albert Chan,Prime Food Processing Corp.,Not Found,Not Found,Prime Food Processing Corp.,(718) 963-2323,Not Found
+"3714 29th Street, Queens, New York, 11101",M T C MACHINE,Not Found,Not Found,Not Found,Kerns Manufacturing Corporation,718-784-5800,info@kernsmfg.com
+"37-14 29th Street, New York, New York, 11101",M T C MACHINE,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"660 12th Ave, New York, New York, 10019",Bay Ridge Automotive Group,Not Found,Not Found,Not Found,The Glasshouse,212-765-8714,info@theglasshouses.com
+"1 Steinway Place, Queens, New York, 11105",Steinway & Sons,Steinway & Sons,718-721-2600,info@steinway.com,Steinway & Sons,718-721-2600,info@steinway.com
+"827 East 92nd St, Brooklyn, New York, 11236",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"25 Hooper Street, Brooklyn, New York, 11249",Ultimate Care,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"144-11 91st Avenue, Jamaica, New York, 11435",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2203 Neptune Ave, Brooklyn, New York, 11224",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"317 GLENMORE AVENUE, Brooklyn, New York, 11207",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1261 Seabury Avenue, Bronx, New York, 10462",David Grogan,Grogan Realty LLC,(718) 863-0574,Not Found,Sweet Sam's Baking Company,(718) 822-0599,Not Found
+"780 EAST 138 STREET, Bronx, New York, 10454",Not Found,Not Found,Not Found,Not Found,Mayflower Agent Meyers Van Line,212-302-1588,Not Found
+"909 REMSEN AVENUE, Brooklyn, New York, 11236",Adar YM Holdings LLC,Not Found,Not Found,Not Found,M. Fried Store Fixtures Inc.,(718) 624-2999,[email protected]
+"420 MORGAN AVENUE, Brooklyn, New York, 11222",Jos H Lowenstein & Sons Inc,Not Found,(718) 388-5410,Not Found,Jos H Lowenstein & Sons Inc,(718) 388-5410,Not Found
+"536 WEST 23 STREET, Manhattan, New York, 10011",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"101 53rd Street, Brooklyn, New York, 11232",Not Found,Not Found,Not Found,Not Found,"Lamonica's Pizza Dough Company, Inc",(718) 567-2380,Not Found
+"8039 PRESTON COURT, Brooklyn, New York, 11236",I.J. Litwak Realty Limited Partnership,Not Found,Not Found,Not Found,A+ Buses Inc.,Not Found,Not Found
+"667 Kent Avenue, Brooklyn, New York, 11249",Not Found,Not Found,Not Found,Not Found,NAP Industries Inc.,718-625-4948,info@napind.com
+"5701 Foster Avenue, Brooklyn, New York, 11234",Noson Sternberg,Greenhill Trading Inc.,(917) 804-8640,Not Found,Greenhill Trading Inc.,(917) 804-8640,Not Found
+"54 MEADOW STREET, Brooklyn, New York, 11206",Not Found,Not Found,Not Found,Not Found,Sino Printing,718-894-3524,Not Found
+"131-27 FOWLER AVENUE, Queens, New York, 11355",HAI GROUP LLC,Not Found,Not Found,Not Found,Bodhi Meditation,Not Found,Not Found
+"305 Johnson Ave Brooklyn NY 11206, Lawrence Township, New York, 11206",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"35-50 Hunters Point Ave, Long Island City, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2702 WEST 15 STREET, BROOKLYN, New York, 11224",Natalia Orlova,Not Found,Not Found,Not Found,"Fromrussia.com, Inc.",Not Found,Not Found
+"49-01 MASPETH AVENUE, MASPETH, New York, 11378",Not Found,Not Found,Not Found,Not Found,O'Wayne Enterprises,(718) 326-0378,Not Found
+"808 ALABAMA AVENUE, BROOKLYN, New York, 11207",AC&C LLC,Not Found,Not Found,Not Found,Ocean Pacific Seafood Group Corp,718-272-1009,Not Found
+"56-75 49th St, Queens, New York, 11378",J&J MASPETH OWNER LLC,Not Found,Not Found,Not Found,Viking SupplyNet,(973) 541-2320,east@supplynet.com
+"5601 First Avenue, Brooklyn, New York, 11220",5601 REALTY LLC,Not Found,(718) 567-7778,Not Found,Southern Telecom Inc,(718) 567-7778,Not Found
+"24-60 47 STREET, Queens, New York, 11103",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1002 ESSEX STREET, BROOKLYN, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"25-48 50th Avenue, Queens, New York, 11101",25-16 AVENUE ASSOCIAT,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"398 Morgan Ave, Brooklyn, New York, 11211",Not Found,Not Found,Not Found,Not Found,Sun King Produce Corporation,(718) 388-6628,Not Found
+"978 Essex Street, Brooklyn, New York, 11208",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"151 Sanford Street, Brooklyn, New York, 11205",Van Blarcom Closures Inc,Not Found,Not Found,Not Found,Van Blarcom Closures Inc,Not Found,Not Found
+"1 Nassau Ave, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1 Nassau Avenue, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"101 COMMERCE STREET, BROOKLYN, New York, 11231",Not Found,Not Found,Not Found,Not Found,Contractor Materials & Cabinets Inc,(718) 237-5953,Not Found
+"105-15 180th Street, Queens, New York, 11433",Robert F. Brown,"Tru-Art Sign Co., Inc.",(718) 658-5068,Not Found,"Tru-Art Sign Co., Inc.",(718) 658-5068,Not Found
+"112-02 15th Ave, College Point, New York, 11356",Not Found,Not Found,Not Found,Not Found,Pepsi-Cola Bottling Group,718-392-1000,Not Found
+"112-20 14th ave, College Point, New York, 11356","JRK Holdings, L.L.C.",Not Found,Not Found,Not Found,Infinity Contracting Services Corp,(718) 762-3200,Not Found
+"120 EAST 144 STREET, BRONX, New York, 10451",Beitel Group,Beitel Group,Not Found,Not Found,Not Found,Not Found,Not Found
+"1215 Spofford Ave, Bronx, New York, 10474",Not Found,Not Found,Not Found,Not Found,"Hydration Labs, Inc.",(347) 768-9444,Not Found
+"12th Ave at West 59th St, New York, New York, 10019",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"144-162 Pilling St, Brooklyn, New York, 11207",Not Found,Not Found,Not Found,Not Found,BT Express Inc.,(718) 513-6262,Not Found
+"156 44th Street, Brooklyn, New York, 11232",FLEX REALTY HOLDINGS,Not Found,Not Found,Not Found,Hitmark Republic Incorporated,718-369-2277,Not Found
+"1701 Bathgate Ave, Bronx, New York, 10457",Not Found,Not Found,Not Found,Not Found,Perrigo Co Inc,718-294-4982,Not Found
+"18-39 41st Street, Astoria, New York, 11105",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"209 East 138 Street, New York, New York, 10451",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"22-14 40th Ave, Long Island City, New York, 11101",Not Found,Not Found,Not Found,Not Found,Elim Apparel Inc,718-472-2130,Not Found
+"2615 W 13th St, Brooklyn, New York, 11223",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"32-36 47th Avenue, Queens, New York, 11101",3300 PROPERTY LP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"363-385 Rider Ave, Bronx, New York, 10451",Not Found,Not Found,Not Found,Not Found,Power Masters Electrical Contracting,718-585-0790,info@powermastersny.com
+"373 Rider Ave, Bronx, New York, 10451",Not Found,Not Found,Not Found,Not Found,Sunny Glass & Mirror,(347) 824-4368,[email protected]
+"375 Rider, Bronx, New York, 10451",CANAL/RIDER L.L.C.,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"3915 1st Avenue, Brooklyn, New York, 11232",19-20 Industry City Associates LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"4000 3rd Ave., Bronx, New York, 10457",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"4105 Avenue H, Brooklyn, New York, 11210",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"4362 Park Avenue, Bronx, New York, 10457",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"4366 Park Avenue, Bronx, New York, 10457",Not Found,Not Found,Not Found,Not Found,United Pickle Products Corp,+1 (718) 933-6060,info@unitedpickle.com
+"47-28 37TH STREET, LONG ISLAND CITY, New York, 11101",Not Found,Not Found,Not Found,Not Found,Select Jewelry Inc,(718) 784-3626,Not Found
+"47-30 Dutch Kills St &amp; 47-60 29th St, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"472 Van Brunt St, Brooklyn, New York, 11231",RED HOOK STORES,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"476-480 Austin Place, Bronx, New York, 10455",Austin Property Corp,Not Found,Not Found,Not Found,Inform Studio Installers Inc.,(718) 401-6149,Not Found
+"48-25A and 48-25B Metropolitan Avenue, Queens, New York, 11385",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"480 Van Brunt St, Brooklyn, New York, 11231",RED HOOK STORES,Not Found,Not Found,Not Found,Food Bazaar,+1 (718) 254-0923,Not Found
+"5219 Flushing Ave, Queens, New York, 11378","Dmi, Inc.","Dmi, Inc.",(718) 489-6285,Not Found,Knockdown Center,(718) 489-6285,Not Found
+"550 Food Center Dr., Bronx, New York, 10474",Anheuser-Busch Co,Anheuser-Busch InBev,(347) 493-8660,Not Found,Anheuser-Busch Sales,(800) 640-4040,Not Found
+"59-20 56th AVE, Maspeth, New York, 11378",Vichai Charalaivan,Not Found,Not Found,Not Found,Hi-Tech Metals,+1 (929) 268-2108,Not Found
+"69-07 69th place, Glendale, New York, 11385",Not Found,Not Found,Not Found,Not Found,"Xpress Distribution, Inc.",Not Found,Not Found
+"738 Chester Street AKA 723 Bristol Street, Brooklyn, New York, 11236",738 Chester LLC,Not Found,Not Found,Not Found,Ny Fish,(718) 342-4100,Not Found
+"763 3 AVENUE, Brooklyn, New York, 11232","RIVERVIEW NEW YORK, L",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"841 63 Street, Brooklyn, New York, 11220",BFL Equities Ltd,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"8805 18th Avenue, Brooklyn, New York, 11214",Joseph Weksler,Not Found,Not Found,Not Found,Bruce Supply Corporation,718-259-4900,Not Found
+"885 SHEPHERD AVENUE, BROOKLYN, New York, 11208",SIT REALTY LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"892 Dean st, Brooklyn, New York, 11238",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"92-03 Corona Ave, Queens, New York, 11373",Owner Name: Not Found,Owner Company Name: Not Found,Owner Phone: Not Found,Owner Email: Not Found,Business Name: Not Found,Business Phone: Not Found,Business Email: Not Found
+"46-05 56th Road, Queens, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2403 Third Ave, Bronx, New York, 10451",2403 Third Ave Operating LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"650 BRUSH AVENUE, Bronx, New York, 10465",Not Found,Not Found,Not Found,Not Found,Pepsi-Cola Bottling Co of New York Inc,(718) 892-1570,Not Found
+"1601 BRONXDALE AVENUE, Bronx, New York, 10462","1601 BRONXDALE, LLC",Not Found,Not Found,Not Found,Ace Bag & Burlap Company,(718) 319-9300,Not Found
+"2350 Lafayette Ave., Bronx, New York, 10473",2350 Lafayette Ave LLC,Not Found,718-863-1342,Not Found,Nysco Products Inc,718-792-9000,info@nysco.com
+"12 Hall Street, Brooklyn, New York, 11205",Not Found,Not Found,Not Found,Not Found,Hall Street 3PL,(718) 855-3636,inquiry@hallstreet3pl.com
+"643 West 43rd Street, New York, New York, 10036",43rd Street Owner LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2447 3RD AVENUE, Bronx, New York, 10451",Markland 141 LLC,Not Found,Not Found,Not Found,Bridge Building Supply Co Inc,(718) 585-3242,Not Found
+"48-43 32nd Place, Queens, New York, 11101",JEHEE MANAGEMENT CORP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"32 Beadel St, Brooklyn, NY 11222, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"49-10 27 STREET, QUEENS, New York, 11101",UNITED PARCEL SERVICE,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1331 Travis Avenue, STATEN ISLAND, New York, 10314","United Parcel Service, Inc.",Not Found,(718) 494-9470,Not Found,"United Parcel Service, Inc.",(718) 494-9470,Not Found
+"1055 Bronx River Avenue, Bronx, New York, 10472",ProLogis,Not Found,+1 (718) 328-3971,Not Found,Amazon Fulfillment Center-Dyo2,+1 (888) 280-4331,Not Found
+"4215 Boston Post Road, BRONX, New York, 10466",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"438-440 East 91st St, New York, New York, 10128",Metropolitan Museum of Art,Not Found,Not Found,Not Found,Metropolitan Museum of Art Storage,Not Found,Not Found
+"2300 Randall Ave, Bronx, New York, 10473",CM REALTY PROPERTY LL,Not Found,Not Found,Not Found,Fad 2300 Food Corp.,(347) 281-8252,Not Found
+"184-60 Jamaica Ave, Queens, New York, 11423",Kabr Group,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"19-40 Hazen Street, Queens, New York, 11370",Hazen Street Realty LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"1011 ELTON ST, BROOKLYN, New York, 11208",Not Found,Not Found,Not Found,Not Found,Fresh Laundry Express,+1 (718) 272-5210,Not Found
+"1476 Utica Ave, Brooklyn, New York, 11234",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"105 EVERGREEN AVENUE, Brooklyn, New York, 11206",Uovo Holdings LLC,Not Found,Not Found,Not Found,UOVO,833-344-8686,info@uovo.art
+"2301 Borden ave, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Foo Yuan Food Products Co Inc,(212) 925-2840,Not Found
+"1213 GRAND ST, Brooklyn, New York, 11211",Not Found,Not Found,Not Found,Not Found,Union Beer Distributors LLC,(718) 497-2407,Not Found
+"62 Imlay St, Brooklyn, New York, 11231",Not Found,Not Found,Not Found,Not Found,Mercedes Distribution Center,718-522-7111,info@mdist.com
+"1213 Grand Street, Brooklyn, New York, 11211",Not Found,Not Found,Not Found,Not Found,Herc Rentals,(718) 386-3523,Not Found
+"900 138th Street Bronx, NY 10454, Bronx, New York, 10454",Not Found,Not Found,Not Found,Not Found,Parallel Products of New England,(718) 585-2030,Not Found
+"33-02 11 Street, Astoria, New York, 11106",CIPICO CONSTRUCTION I,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"154 Morgan ave, Brooklyn, New York, 11237",Terreno Realty Corporation,Not Found,Not Found,Not Found,A L & C Trading Inc,718-366-0955,Not Found
+"414 East 101st St, Brooklyn, New York, 11236",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2615 Brooklyn Queens Expressway, Queens, New York, 11377",Not Found,Not Found,Not Found,Not Found,BWC,(718) 204-3345,Not Found
+"37-01 21st Street, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"383 CONCORD AVENUE, Bronx, New York, 10454",Shlomo Malki,Econocraft World Wide Mfg Inc,718-585-6463,Not Found,Econocraft World Wide Mfg Inc,718-585-6463,Not Found
+"230-19 Int. Airport Center Blv, Jamaica, New York, 11413-4104",Not Found,Not Found,Not Found,Not Found,SEKO Logistics New York,(718) 656-9300,Not Found
+"1530 MCDONALD AVE, Brooklyn, New York, 11230",Not Found,Not Found,Not Found,Not Found,Iconic Distributors,718-568-5115,Not Found
+"Classified NYPD Location, Bronx, New York, 10470",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"103 13th street, Brooklyn, New York, 11215",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"515 Bryant Ave # 521, Bronx, NY 10474, none, New York, 10474",515 BRYANT REALTY LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"4712 Grand Ave, Queens, New York, 11378",Not Found,Not Found,Not Found,Not Found,Manhattan Beer Distributors,(718) 894-0127,info@manhattanbeer.com
+"58-50 52nd Avenue, Queens, New York, 11377",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"21-15 21 STREET, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"3505 Conner Street, Bronx, New York, 10475",Not Found,Not Found,Not Found,Not Found,Bronx Kia,(718) 777-0800,Not Found
+"117 VERDI ST FARMINGDALE, Maspeth, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"182-09 149th Rd, Jamaica, New York, 11413","Cai Zhong, Xian",CTS Global Logistics (Georgia) Inc.,Not Found,Not Found,"Radiant Customs Services, Inc.",(718) 995-3850,Not Found
+"5860 GRAND AVE, Queens, New York, 11378",Tom Ryan,Welpak Corp.,(718) 391-0155,Not Found,Welpak Corp.,(718) 391-0155,Not Found
+"1201 Metropolitan Ave, Brooklyn, New York, 11237",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"47-20 30 STREET, QUEENS, New York, 11101","JOMEIRA REALTY, LLC",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"115-40 DUNKIRK STREET, QUEENS, New York, 11412",BK HOLDING CORP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"150-10 132nd Ave., jamaica, New York, 11434",Not Found,Not Found,Not Found,Not Found,Bolloré Logistics USA Inc,(718) 525-8100,Not Found
+"56-01 Maspeth Ave, Queens, New York, 11378",J&J MASPETH OWNER LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"333 Beach 95th Street AKA 95-15 Beach Channel Drive, Queens, New York, 11693",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+"10615 Foster Avenue, Brooklyn, New York, 11236",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"152 Ashland Place, Brooklyn, New York, 11201",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"435 E 55th St, New York, New York, 10022",Edwin Rivera,Garage Management Company LLC,(212) 753-8148,Not Found,Carriage Trade Garage,(212) 753-8148,Not Found
+"163 East 84th Street, New York, New York, 10028","163 East 84th Street, L.L.C.",Not Found,Not Found,Not Found,163 East 84th Tenant LLC,Not Found,Not Found
+"515 7th Avenue, New York, New York, 10018","515 SEVENTH AVENUE REALTY, L.P.",Not Found,Not Found,Not Found,Central Parking System,+1 (212) 398-0547,Not Found
+"201 WEST 75 STREET, New York, New York, 10023",Not Found,Not Found,Not Found,Not Found,Carousel Parking Corp / Champion Parking,212-874-0581,Not Found
+"5610 2nd Avenue, Brooklyn, New York, 11220",Not Found,Not Found,Not Found,Not Found,Sunset Park Family Health Center at NYU Langone—Second Avenue,(718) 630-7249,Not Found
+"4162 Broadway, New York, New York, 10033",Broadway 176th LLC,Not Found,Not Found,Not Found,Centerpark Broadway Parking Garage,(212) 568-3758,[email protected]
+"260 Myrtle Avenue, Brooklyn, New York, 11201",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"98-20 97 Avenue, Queens, New York, 11416",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2400 Ryer Avenue, Bronx, New York, 10458",2400 Ryer Avenue Realty LLC,Not Found,Not Found,Not Found,Fine Fare,(718) 367-1800,Not Found
+"410 E 148 St, Bronx, New York, 10455",Not Found,Not Found,Not Found,Not Found,Episcopal Social Services,718-742-1850,info@e-s-s.org
+"2170 Mcdonald Ave, Brooklyn, New York, 11233",Carmike Holding I LLC,Not Found,Not Found,Not Found,Magen David Yeshivah Early Childhood Center,718-265-3331,Not Found
+"170 LAWRENCE AVENUE, BROOKLYN, New York, 11230",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"2863 Webster Avenue, Bronx, New York, 10458",DEBRON REALTY CORP.,Not Found,Not Found,Not Found,Marc Academy and Family Center Inc.,718-562-6080,info@marcafc.org
+"1841 Park Avenue, New York, New York, 10035",Association to Benefit Children,Not Found,Not Found,Not Found,A B C Echo Park Early Childhood Development Center,(646) 459-6091,Not Found
+"460 Atlantic Ave, Brooklyn, New York, 11217",460 Atlantic Realty Corp,Not Found,Not Found,Not Found,Strong Place for Hope Day Care,718-522-1351,strongplaceatlantic@hotmail.com
+"58-71 56 DRIVE, QUEENS, New York, 11378",ALLE PROCESSING CORP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"58-71 56 Drive, Maspeth, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"340 Johnson Avenue, Brooklyn, New York, 11206",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"650 Fountain Ave, Brooklyn, New York, 11208",SPENCERAN INC,Not Found,Not Found,Not Found,Food Bazaar Supermarkets,Not Found,Not Found
+"1376 Cromwell Avenue, Bronx, New York, 10452",CubeSmart,CubeSmart Self Storage of the Bronx,718-588-1100,STORE0812@CUBESMART.COM,CubeSmart Self Storage of the Bronx,718-588-1100,STORE0812@CUBESMART.COM
+"47-36 VAN DAM STREET, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+"122-20 Merrick Boulevard, Queens, New York, 11434",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage - Queens,718-525-6150,Not Found
+"1816 Boston Road, Bronx, New York, 10460",Cubesmart Boston Road LLC,Cubesmart,Not Found,Not Found,CubeSmart Self Storage,(718) 991-2999,Not Found
+"169-01 baisley blvd, queens, New York, 11434",Not Found,Not Found,Not Found,Not Found,Stop & Stor,(718) 949-8000,springfieldgardens@stopandstor.com
+"5020 Broadway, New York, New York, 10034",Not Found,Not Found,Not Found,Not Found,Manhattan Mini Storage,(212) 567-6895,Not Found
+"2990 Cropsey Avenue, Brooklyn, New York, 11214",CubeSmart Self Storage,CubeSmart Self Storage,718-373-0517,Not Found,CubeSmart Self Storage,718-373-0517,Not Found
+"1151 East New York Avenue, Brooklyn, New York, 11212",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage,718-778-8800,Not Found
+"301 West Fordham Road, Bronx, New York, 10468",Storage Post,Not Found,Not Found,Not Found,Storage Post Self Storage,718-208-4838,Not Found
+"252 Newport St, Brooklyn, New York, 11212",Not Found,Not Found,Not Found,Not Found,Extra Space Storage,(347) 305-8701,[email protected]
+"3511 Victory Blvd, Staten Island, New York, 10314",Andover Properties LLC,Andover Properties LLC,Not Found,Not Found,Storage King USA,(718) 983-0551,Not Found
+"2558 e 18th st, Brooklyn, New York, 11235",The Laquila Group Inc,Not Found,+1 (718) 368-2432,Not Found,Hemoncare PC,Not Found,Not Found
+"1507 Coney Island ave, Brooklyn, New York, 11230",Abraham Banda,The Kosher Garden Inc.,Not Found,Not Found,Pomegranate Supermarket,718-951-7112,[email protected]
+"214 3rd St, Brooklyn, New York, 11215",WFM Properties Brooklyn LLC,Not Found,Not Found,Not Found,Whole Foods Market,(718) 907-3622,Not Found
+"262 11 Avenue, New York, New York, 10001",DEZER PROPERTIES 11TH AVENUE,DEZER PROPERTIES CO.,Not Found,Not Found,Not Found,Not Found,Not Found
+"48-40 34th St, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Electrical Industry Training Center,718-433-9174,Not Found
+"1215 E. GUN HILL RD, BRONX, New York, 10469",Not Found,Not Found,Not Found,Not Found,Gun Post Lanes,(718) 881-0331,Not Found
+"141 East Service Road, Staten Island, New York, 10314",SI Showplace LLC,Not Found,Not Found,Not Found,Showplace Entertainment Center,(718) 477-2695,info@showplacebowling.net
+"30-05 Whitestone Expressway, Queens, New York, 11354",Not Found,Not Found,Not Found,Not Found,Whitestone Lanes Inc.,Not Found,Not Found
+"98-18 Rockaway Boulevard, Queens, New York, 11417",Not Found,Not Found,Not Found,Not Found,Bowl 360 Inc.,Not Found,Not Found
