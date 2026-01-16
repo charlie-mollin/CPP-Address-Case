@@ -1,5 +1,249 @@
-Address,Owner Name,Owner Company Name,Owner Phone,Owner email,Business Name,Business Phone,Business Email
-"5020 Broadway, New York, New York, 10034",Not Found,Not Found,Not Found,Not Found,Manhattan Mini Storage,(212) 567-6895,Not Found
-"2990 Cropsey Avenue, Brooklyn, New York, 11214",CubeSmart Self Storage,CubeSmart Self Storage,(718) 373-0517,Not Found,CubeSmart Self Storage of Brooklyn,(718) 373-0517,Not Found
-"1151 East New York Avenue, Brooklyn, New York, 11212",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage,718-778-8800,Not Found
-"1507 Coney Island ave, Brooklyn, New York, 11230",Abraham Banda,The Kosher Garden Inc.,(718) 951-7112,[email protected],Pomegranate Supermarket,(718) 951-7112,[email protected]
+Address,Owner Name,Owner Company Name,Owner Phone,Owner email,Business Name,Business Phone,Business Email,Property Type
+"95-10 Ditmars Boulevard, Queens, New York, 11369",Not Found,Not Found,Not Found,Not Found,National Car Rental,(718) 429-5893,Not Found,Automobile Dealership
+"1800 Shore Pkwy, Brooklyn, New York, 11214",Will Berardino,Mercedes-Benz of Brooklyn,(718) 258-5100,Not Found,Mercedes-Benz of Brooklyn,(929) 684-1005,[email protected],Automobile Dealership
+"40-40 Northern Boulevard, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Lexus of Queens,(347) 394-4566,Not Found,Automobile Dealership
+"69-10 34 Avenue, Queens Borough, New York, 11377",34TH AVENUE WOODSIDE ACQUISITION II LLC,Not Found,Not Found,Not Found,Lucky Strike Queens,(718) 651-0440,Not Found,Bowling Alley
+"1600 Hylan Boulevard, Staten Island, New York, 10305",Rab Wilkinson,Rab and Dee Bowling Inc.,(718) 979-1600,info@bowlatrabs.com,Rab's Country Lanes,(718) 979-1600,info@bowlatrabs.com,Bowling Alley
+"2417 HOLLERS AVENUE, Bronx, New York, 10475",Constantine Monzidelis,2417 Hollers Avenue Realty LLC,Not Found,Not Found,Bowlerland,718-994-8700,Not Found,Bowling Alley
+"1121 Bedford Ave, Brooklyn, New York, 11216",Not Found,Not Found,Not Found,Not Found,Bedford-Stuyvesant Branch YMCA,718-789-1497,Not Found,Fitness Center / Health Club / Gym
+"330 E 61ST ST NEW YORK NY, NEW YORK, New York, 10065",Not Found,Not Found,Not Found,Not Found,Equinox East 61st Street,(212) 355-5100,arthur.donowski@equinox.com,Fitness Center / Health Club / Gym
+"505 West 218th Street, New York, New York, 10034",Columbia University,Columbia University,Not Found,Not Found,Campbell Sports Center,(212) 304-0162,Not Found,Fitness Center / Health Club / Gym
+"28-56 Steinway St, Queens, New York, 11103",2856 ASTORIA LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Fitness Center / Health Club / Gym
+"207 Beach 73rd St, Averne, New York, 11692",Arverne Community Center Corp,Not Found,Not Found,Not Found,Rockaway YMCA,718-215-6950,Not Found,Fitness Center / Health Club / Gym
+"897 BROADWAY NEW YORK, NEW YORK, New York, 10003","Equinox-76th Street, Inc.",Equinox Fitness Club,(212) 780-9300,Not Found,Equinox Flatiron,(212) 780-9300,Not Found,Fitness Center / Health Club / Gym
+"363 West 16th Street, New York, New York, 10011",Not Found,Not Found,Not Found,Not Found,The Maritime Hotel,(212) 242-4300,Not Found,Hotel
+"848 Washington Street, Manhattan, New York, 10014",Gaw Capital,GC SHL LLC,Not Found,Not Found,"The Standard, High Line",212-645-4646,[email protected],Hotel
+"147 W 43rd St, New York, New York, 10036",Patricia Hamilton,Not Found,Not Found,Not Found,Casablanca Hotel,(212) 869-1212,info@casablancahotel.com,Hotel
+"212 East 42nd Street, New York, New York, 10017",Davidson Kempner Capital Management,Not Found,Not Found,Not Found,The Westin New York Grand Central,212-490-8900,Not Found,Hotel
+"1535 Broadway, New York, New York, 10036",Vornado Realty Trust,Vornado Realty Trust,212-894-7000,Not Found,New York Marriott Marquis,212-398-1900,Not Found,Hotel
+"130 West 44th Street, Manhattan, New York, 10036",Ben-Josef Group Holdings,Not Found,Not Found,Not Found,"The Chatwal, New York",+1 (212) 764-6200,concierge@thechatwalny.com,Hotel
+"377 Greenwich Street, New York, New York, 10013",Robert De Niro,The Greenwich Hotel,212-941-8900,frontdesk@thegreenwichhotel.com,The Greenwich Hotel,212-941-8900,frontdesk@thegreenwichhotel.com,Hotel
+"40 West 40th Street, New York, New York, 10001","Koi Ny, LLC",Not Found,Not Found,Not Found,The Bryant Park Hotel,Not Found,Not Found,Hotel
+"377 Greenwich St, New York, New York, 10013",Robert De Niro,377 Greenwich LLC,212-941-8900,frontdesk@thegreenwichhotel.com,The Greenwich Hotel,212-941-8900,frontdesk@thegreenwichhotel.com,Hotel
+"335 Bowery, New York, New York, 10003",Sean MacPherson,The Bowery Hotel LLC,212-505-9100,Not Found,The Bowery Hotel,212-505-9100,reservations@bohonyc.com,Hotel
+"308 West 58th Street, New York, New York, 10019",Jack Rosen,308 Hotel Corp.,212-445-0200,Not Found,Westpark Hotel,212-246-6440,Not Found,Hotel
+"29 9th Avenue, New York, New York, 10014",Soho House New York,Soho House New York,212-627-9800,[email protected],Soho House New York,212-627-9800,[email protected],Hotel
+"97 Wythe Avenue, NYC, New York, 11249",Ennismore and Sydell Group,Not Found,Not Found,Not Found,The Hoxton Williamsburg,(718) 215-7100,hello.williamsburg@thehoxton.com,Hotel
+"80 Wythe Ave, Brooklyn, New York, 11249",Peter Lawrence,Wythe Hotel,718-460-8000,info@wythehotel.com,Wythe Hotel,718-460-8000,info@wythehotel.com,Hotel
+"96 Wythe Ave, Brooklyn, NY 11249, Brooklyn, New York, 11249",96 Wythe Acquisition LLC,Not Found,Not Found,Not Found,Arlo Williamsburg,(718) 362-8100,hellowilliamsburg@arlohotels.com,Hotel
+"95 West Broadway, New York, New York, 10007",95 West Broadway Holdings LLC,Not Found,Not Found,Not Found,The Frederick Hotel,(212) 566-1900,CosmoRes@triumphny.com,Hotel
+"210 W 55th St, New York, New York, 10019",Dream Hotel Group,Dream Hotel Group,212-247-2000,Not Found,Dream Midtown Hotel,212-247-2000,Not Found,Hotel
+"361 Bedford Ave, Brooklyn, New York, 11211",Lightstone Group,Not Found,Not Found,Not Found,Moxy Brooklyn Williamsburg,Not Found,Not Found,Hotel
+"210 WEST 55 STREET, NEW YORK, New York, 10019",Sant Singh Chatwal,Dream Hotel Group,Not Found,Not Found,Dream Midtown Hotel,(212) 247-2000,Not Found,Hotel
+"189 Bowery Street, New York, New York, 10002",Rinaldi Group,Not Found,(201) 601-4065,Not Found,CitizenM New York Bowery,(212) 372-7274,Not Found,Hotel
+"405 East 73rd Street, New York, New York, 10021",Ronald McDonald House,Ronald McDonald House Charities New York,Not Found,Not Found,Ronald McDonald House,Not Found,Not Found,Hotel
+"1170 Broadway, New York City, New York, 10001",Not Found,Not Found,Not Found,Not Found,The Ned NoMad,212-722-0555,Not Found,Hotel
+"180 Ludlow st, New York, New York, 10002",BD Hotels,Not Found,Not Found,Not Found,The Ludlow Hotel,212-432-1818,info@ludlowhotel.com,Hotel
+"712 7th Avenue, New York, New York, 10036",Not Found,Not Found,Not Found,Not Found,New York Iconic Tours,800-299-4412,Not Found,Hotel
+"252-260 West 40th Street, New York, New York, 10018",OTO Development,OTO Development,Not Found,Not Found,AC Hotel New York Times Square,+1 212-398-2700,Not Found,Hotel
+"503 Canal Street, New York, New York, 10013",Ponte Equities,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Hotel
+"75 NORTH 11 STREET, Brooklyn, New York, 11249",WYTHEHOTEL LLC,Not Found,Not Found,Not Found,Wythe Hotel,Not Found,Not Found,Hotel
+"147 Mercer Street, New York, New York, 10012",BD Hotels,BD Hotels,+1 (212) 966-6060,Not Found,The Mercer Hotel,+1 (212) 966-6060,[email protected],Hotel
+"299 Madison Ave, New York, New York, 10017",299 Madison Hotel LLC,Not Found,Not Found,Not Found,Library Hotel,+1 (212) 983-4500,info@libraryhotel.com,Hotel
+"60 THOMPSON STREET, Manhattan, New York, 10012",Standard International,Not Found,Not Found,Not Found,Sixty SoHo Hotel,+1 (212) 431-0400,Not Found,Hotel
+"209 WEST 87TH STREET, New York, New York, 10024",Not Found,Not Found,Not Found,Not Found,The Belnord Hotel,+1 (212) 873-5222,Not Found,Hotel
+"124 EAST 66 STREET, New York, New York, 10065",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Hotel
+"112 East 11th Street, New York, New York, 10003",US-DEV ASSOCIATES LLC,Not Found,Not Found,info@moxyeastvillage.com,Moxy East Village,(212) 288-6699,info@moxyeastvillage.com,Hotel
+"220-33 NORTHERN BLVD, NEW YORK, New York, 11361",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Hotel
+"196 Grand St, New York, New York, 10013",196 GRAND LLC,Not Found,Not Found,Not Found,NobleDEN Hotel,(212) 390-8988,contact@nobleden.com,Hotel
+"30 Kenmare St, New York, NY 10012, New York, New York, 10012",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Hotel
+"60 E. 54th St., New York, New York, 10022","ELYSEE HOTEL, LLC","ELYSEE HOTEL, LLC",(212) 753-1066,Not Found,Hotel Elysee,(212) 753-1066,[email protected],Hotel
+"31 West 71 Street, New York, New York, 10023",James Martinez,Wyndham Hotels & Resorts,(212) 791-9451,james_martinez@choicehotels.com,La Quinta Inn & Suites by Wyndham New York City Central Park,(212) 791-9451,info@iatan.org,Hotel
+"220-33 Northern Blvd, Queens, New York, 11361",Not Found,Not Found,Not Found,Not Found,Best Western Queens Gold Coast,(718) 631-4900,Not Found,Hotel
+"79 Crosby Street, New York, New York, 10012",Firmdale Hotels,Firmdale Hotels,+1 (212) 226 6400,crosby@firmdale.com,Crosby Street Hotel,+1 (212) 226 6400,crosby@firmdale.com,Hotel
+"252 W 40th Street, New York, New York, 10018",OTO Development,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Hotel
+"33 W 37th St, New York, New York, 10018",Majestic Hotel Corp.,Not Found,Not Found,Not Found,The Strand Hotel,(212) 302-7103,info@hudsonmeridian.com,Hotel
+"205 WEST 40 STREET, New York, New York, 10018",Ac Mvts Holdco Llc,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Hotel
+"211 WEST 101ST STREET, New York, New York, 10025",FRANT HOTEL LLC,FRANT HOTEL LLC,(212) 864-7400,Not Found,Frant Hotel,(212) 864-7400,Not Found,Hotel
+"22 MILFORD STREET, Brooklyn, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"242 GREEN STREET, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"4435 Victory Boulevard, Staten Island, New York, 10314",Not Found,Not Found,Not Found,Not Found,Visy Paper,718-370-1114,Not Found,Manufacturing / Industrial Plant
+"56-20 59th Street, Maspeth, New York, 11378",WRV 56 ST LLC,Not Found,Not Found,Not Found,Alle Processing Corporation,(718) 894-2000,Not Found,Manufacturing / Industrial Plant
+"58-80 59 STREET, QUEENS, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"959 ESSEX ST, BROOKLYN, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"781 East 133rd Street AKA 780 East 134th Street, Bronx, New York, 10454",Bldg Management,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"112-02 15 AVENUE, Queens, New York, 11356",PEPSI COLA BOTTLING COMPANY OF NEW YORK,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"970 Shepherd Ave, Brooklyn, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"2570 Whitestone Expressway, Flushing, New York, 11354",Queens Housing and Immigrant Center Corporation,Not Found,347-208-6269,andrea_alexopoulos@aafe.org,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"171 WALWORTH STREET, Brooklyn, New York, 11205",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"1700 Bathgate Ave, Bronx, New York, 10457",Perrigo Company,Perrigo Company,718-901-2800,Not Found,Perrigo Company,718-901-2800,Not Found,Manufacturing / Industrial Plant
+"155 Food Center Dr., Bronx, New York, 10474",Michael Muzyk,Baldor Specialty Foods Inc,(718) 860-9100,michael@baldorfood.com,Baldor Specialty Foods,(718) 860-9100,michael@baldorfood.com,Manufacturing / Industrial Plant
+"156 Sanford Street, Brooklyn, New York, 11205",Van Blarcom Closures Inc,Van Blarcom Closures Inc,718-855-3810,Not Found,Van Blarcom Closures Inc,718-855-3810,Not Found,Manufacturing / Industrial Plant
+"630 Flushing Avenue, Brooklyn, New York, 11206",ACP BK 1 LLC,ACP BK 1 LLC,(718) 360-9501,Not Found,"Bushwick Kitchen, LLC",(917) 297-1045,Not Found,Manufacturing / Industrial Plant
+"116 39th Street, Brooklyn, New York, 11232",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"123 Varrick Ave, Brooklyn, New York, 11237",Not Found,Not Found,Not Found,Not Found,Eastern Waste of New York,718-821-5289,Not Found,Manufacturing / Industrial Plant
+"2111 RICHMOND TERRACE, Staten Island, New York, 10302",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"5401 1st Ave, Brooklyn, New York, 11220",George Goldberg,E & G Plastics Corp,(718) 238-2133,Not Found,E G Plastics Inc,(718) 238-2133,Not Found,Manufacturing / Industrial Plant
+"1776 HOE AVENUE, Bronx, New York, 10460",Mega Contracting Group,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"5700 Avenue D, Brooklyn, New York, 11203",Meiloch Wislicki,Sgfw Bakers Inc.,(718) 388-4031,Not Found,Beigel's Bakery,(718) 388-4031,Not Found,Manufacturing / Industrial Plant
+"112-07 14th Ave, College Point, New York, 11356","VISTA CATHEDRAL, LLC",Not Found,Not Found,Not Found,Precision Gear Inc,718-321-7200,Not Found,Manufacturing / Industrial Plant
+"2025 ATLANTIC AVENUE, BROOKLYN, New York, 11233",Tower Isle's Frozen Foods Ltd.,Tower Isle's Frozen Foods Ltd.,718-495-2626,Not Found,Tower Isle's Frozen Foods Ltd.,718-495-2626,Not Found,Manufacturing / Industrial Plant
+"96-03 Beach Channel Drive, Queens, New York, 11693",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"18-35 Steinway place, Long Island City, New York, 11105",Carole White,18-35 Steinway Place Inc.,Not Found,Not Found,White Coffee Corporation,(718) 204-7900,Not Found,Manufacturing / Industrial Plant
+"300 Vandervoort Avenue, Brooklyn, New York, 11211",Albert Chan,Prime Food Processing Corp.,(718) 963-2323,Not Found,Prime Food Processing Corp.,(718) 963-2323,Not Found,Manufacturing / Industrial Plant
+"3714 29th Street, Queens, New York, 11101",M T C MACHINE,Not Found,Not Found,Not Found,Kerns Manufacturing Corporation,718-784-5800,info@kernsmfg.com,Manufacturing / Industrial Plant
+"37-14 29th Street, New York, New York, 11101",M T C MACHINE,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"660 12th Ave, New York, New York, 10019",Bay Ridge Automotive Group,Not Found,Not Found,Not Found,The Glasshouse,212-242-7800,[email protected],Manufacturing / Industrial Plant
+"1 Steinway Place, Queens, New York, 11105",Benjamin Steiner,"Steinway & Sons, Inc.",(718) 721-2600,Not Found,Steinway & Sons,(718) 721-2600,info@steinway.com,Manufacturing / Industrial Plant
+"827 East 92nd St, Brooklyn, New York, 11236",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"25 Hooper Street, Brooklyn, New York, 11249",Ultimate Care,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"144-11 91st Avenue, Jamaica, New York, 11435",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"2203 Neptune Ave, Brooklyn, New York, 11224",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"317 GLENMORE AVENUE, Brooklyn, New York, 11207",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"1261 Seabury Avenue, Bronx, New York, 10462",David Grogan,Grogan Realty LLC,(718) 863-0574,Not Found,Sweet Sam's Baking Company,(718) 822-0599,Not Found,Manufacturing / Industrial Plant
+"780 EAST 138 STREET, Bronx, New York, 10454",Not Found,Not Found,Not Found,Not Found,U-Haul Moving & Storage of Port Morris,Not Found,Not Found,Manufacturing / Industrial Plant
+"909 REMSEN AVENUE, Brooklyn, New York, 11236",Adar YM Holdings LLC,Not Found,Not Found,Not Found,M Fried Store Fixtures Inc,(718) 624-2999,info@mfried.com,Manufacturing / Industrial Plant
+"420 MORGAN AVENUE, Brooklyn, New York, 11222","Jos. H. Lowenstein & Sons, Inc.",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"536 WEST 23 STREET, Manhattan, New York, 10011",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Manufacturing / Industrial Plant
+"101 53rd Street, Brooklyn, New York, 11232",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"8039 PRESTON COURT, Brooklyn, New York, 11236",I.J. Litwak Realty Limited Partnership,Not Found,Not Found,Not Found,A+ Buses Inc.,Not Found,Not Found,Manufacturing / Industrial Plant
+"667 Kent Avenue, Brooklyn, New York, 11249",N A P Industries Inc.,N A P Industries Inc.,718-625-4948,Not Found,N A P Industries Inc.,718-625-4948,Not Found,Manufacturing / Industrial Plant
+"5701 Foster Avenue, Brooklyn, New York, 11234",Yosef Sternberg,Not Found,Not Found,Not Found,The Network,(718) 451-2211,Not Found,Manufacturing / Industrial Plant
+"54 MEADOW STREET, Brooklyn, New York, 11206",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"131-27 FOWLER AVENUE, Queens, New York, 11355",HAI GROUP LLC,Not Found,Not Found,Not Found,Bodhi Meditation,Not Found,Not Found,Manufacturing / Industrial Plant
+"305 Johnson Ave Brooklyn NY 11206, Lawrence Township, New York, 11206",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"35-50 Hunters Point Ave, Long Island City, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"2702 WEST 15 STREET, BROOKLYN, New York, 11224",Natalia Orlova,"Global Trade House, Inc",Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"49-01 MASPETH AVENUE, MASPETH, New York, 11378",J&J MASPETH OWNER LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"808 ALABAMA AVENUE, BROOKLYN, New York, 11207",AC&C LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"56-75 49th St, Queens, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"5601 First Avenue, Brooklyn, New York, 11220",5601 REALTY LLC,Not Found,(718) 567-7778,Not Found,Southern Telecom Inc,(718) 567-7778,Not Found,Manufacturing / Industrial Plant
+"24-60 47 STREET, Queens, New York, 11103",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"1002 ESSEX STREET, BROOKLYN, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"25-48 50th Avenue, Queens, New York, 11101",25-16 AVENUE ASSOCIAT,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"398 Morgan Ave, Brooklyn, New York, 11211",Not Found,Not Found,Not Found,Not Found,Sun King Produce Corporation,(718) 388-6628,Not Found,Manufacturing / Industrial Plant
+"978 Essex Street, Brooklyn, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"151 Sanford Street, Brooklyn, New York, 11205",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"1 Nassau Ave, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"1 Nassau Avenue, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,American Metal Stamping,(718) 384-1500,Not Found,Manufacturing / Industrial Plant
+"101 COMMERCE STREET, BROOKLYN, New York, 11231",Not Found,Not Found,Not Found,Not Found,Contractor Materials & Cabinets Inc,718-237-5953,Not Found,Manufacturing / Industrial Plant
+"105-15 180th Street, Queens, New York, 11433",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"112-02 15th Ave, College Point, New York, 11356",Not Found,Not Found,Not Found,Not Found,Pepsi-Cola Bottling Group,(718) 392-1000,Not Found,Manufacturing / Industrial Plant
+"112-20 14th ave, College Point, New York, 11356",Not Found,Not Found,Not Found,Not Found,Backflow Prevention of NY,718-460-4600,info@rpzny.com,Manufacturing / Industrial Plant
+"120 EAST 144 STREET, BRONX, New York, 10451",Beitel Group,Beitel Group,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"1215 Spofford Ave, Bronx, New York, 10474",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"12th Ave at West 59th St, New York, New York, 10019",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"144-162 Pilling St, Brooklyn, New York, 11207",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"156 44th Street, Brooklyn, New York, 11232",FLEX REALTY HOLDINGS,Not Found,Not Found,Not Found,Hitmark Republic Incorporated,718-369-2277,Not Found,Manufacturing / Industrial Plant
+"1701 Bathgate Ave, Bronx, New York, 10457",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"18-39 41st Street, Astoria, New York, 11105",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"209 East 138 Street, New York, New York, 10451",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"22-14 40th Ave, Long Island City, New York, 11101",Not Found,Not Found,Not Found,Not Found,Unik Jewelry Corp,(718) 786-7499,Not Found,Manufacturing / Industrial Plant
+"2615 W 13th St, Brooklyn, New York, 11223",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"32-36 47th Avenue, Queens, New York, 11101",3300 PROPERTY LP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"363-385 Rider Ave, Bronx, New York, 10451",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"373 Rider Ave, Bronx, New York, 10451",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"375 Rider, Bronx, New York, 10451",CANAL/RIDER L.L.C.,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"3915 1st Avenue, Brooklyn, New York, 11232",19-20 Bush Terminal Owner LP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"4000 3rd Ave., Bronx, New York, 10457",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"4105 Avenue H, Brooklyn, New York, 11210",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"4362 Park Avenue, Bronx, New York, 10457",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"4366 Park Avenue, Bronx, New York, 10457",United Pickle Products Corp,United Pickle Products Corp,(718) 933-6060,Not Found,United Pickles,(718) 933-6060,Not Found,Manufacturing / Industrial Plant
+"47-28 37TH STREET, LONG ISLAND CITY, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"47-30 Dutch Kills St &amp; 47-60 29th St, Queens, New York, 11101",Broadway Stages,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"472 Van Brunt St, Brooklyn, New York, 11231",RED HOOK STORES,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"476-480 Austin Place, Bronx, New York, 10455",Austin Property Corp,Austin Property Corp,Not Found,Not Found,Interior Wall Designs,718-993-5120,sales@interiorwalldesignsny.com,Manufacturing / Industrial Plant
+"48-25A and 48-25B Metropolitan Avenue, Queens, New York, 11385",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"480 Van Brunt St, Brooklyn, New York, 11231",RED HOOK STORES,Not Found,Not Found,Not Found,Food Bazaar,718-254-0923,Not Found,Manufacturing / Industrial Plant
+"5219 Flushing Ave, Queens, New York, 11378",DCD NY PROPERTIES LLC,Not Found,Not Found,Not Found,Knockdown Center,+1 (347) 915-5615,info@knockdown.center,Manufacturing / Industrial Plant
+"550 Food Center Dr., Bronx, New York, 10474",Anheuser-Busch Co,Anheuser-Busch InBev,(800) 640-4040,Not Found,Anheuser-Busch Sales,(347) 493-8660,Not Found,Manufacturing / Industrial Plant
+"59-20 56th AVE, Maspeth, New York, 11378",Vichai Charalaivan,Not Found,Not Found,Not Found,Hi-Tech Metals,(718) 894-1212,info@hi-techmetals.com,Manufacturing / Industrial Plant
+"69-07 69th place, Glendale, New York, 11385",Not Found,Not Found,Not Found,Not Found,"Xpress Distribution, Inc.",Not Found,Not Found,Manufacturing / Industrial Plant
+"738 Chester Street AKA 723 Bristol Street, Brooklyn, New York, 11236",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"763 3 AVENUE, Brooklyn, New York, 11232","RIVERVIEW NEW YORK, L",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"841 63 Street, Brooklyn, New York, 11220",BFL Equities Ltd,Not Found,347-662-6241,Not Found,Easy 63 N Fashion Inc,Not Found,Not Found,Manufacturing / Industrial Plant
+"8805 18th Avenue, Brooklyn, New York, 11214",Joseph Weksler,Not Found,Not Found,Not Found,Bruce Supply Corporation,718-259-4900,Not Found,Manufacturing / Industrial Plant
+"885 SHEPHERD AVENUE, BROOKLYN, New York, 11208",SIT REALTY LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Manufacturing / Industrial Plant
+"892 Dean st, Brooklyn, New York, 11238",Not Found,Not Found,Not Found,Not Found,Yuan Da Trading,(718) 623-1800,Not Found,Manufacturing / Industrial Plant
+"92-03 Corona Ave, Queens, New York, 11373",Not Found,Not Found,Not Found,Not Found,Flea Market,718-533-1217,Not Found,Manufacturing / Industrial Plant
+"46-05 56th Road, Queens, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"2403 Third Ave, Bronx, New York, 10451",Donna Shavolian Hedvat,Not Found,Not Found,Not Found,Beethoven Pianos,(718) 585-9182,Not Found,Non-Refrigerated Warehouse
+"650 BRUSH AVENUE, Bronx, New York, 10465","NY Brush, LLC","NY Brush, LLC",Not Found,Not Found,Buhre Beverage Distributing,(718) 518-0044,Not Found,Non-Refrigerated Warehouse
+"1601 BRONXDALE AVENUE, Bronx, New York, 10462",1601 BRONXDALE PROPERTY OWNER LLC,Not Found,Not Found,Not Found,New York Sports Clubs,Not Found,Not Found,Non-Refrigerated Warehouse
+"2350 Lafayette Ave., Bronx, New York, 10473",2350 Lafayette Avenue LLC,2350 Lafayette Avenue LLC,718-863-1342,Not Found,Nysco Products Inc,718-792-9000,info@nysco.com,Non-Refrigerated Warehouse
+"12 Hall Street, Brooklyn, New York, 11205",Hk Organization LLC,Not Found,Not Found,Not Found,iStoreGreen,(718) 855-3636,inquiry@hallstreet3pl.com,Non-Refrigerated Warehouse
+"643 West 43rd Street, New York, New York, 10036",Not Found,Not Found,Not Found,Not Found,United Parcel Service,(212) 631-6629,Not Found,Non-Refrigerated Warehouse
+"2447 3RD AVENUE, Bronx, New York, 10451",Markland 141 LLC,Not Found,Not Found,Not Found,Bridge Building Supply Co Inc,(718) 585-3242,[email protected],Non-Refrigerated Warehouse
+"48-43 32nd Place, Queens, New York, 11101",JEHEE MANAGEMENT CORP,Not Found,Not Found,Not Found,Wanrong Trading Corp,(718) 361-8882,Not Found,Non-Refrigerated Warehouse
+"32 Beadel St, Brooklyn, NY 11222, Brooklyn, New York, 11222",Not Found,Not Found,Not Found,Not Found,New Son Yeng Produce,718-330-1188,Not Found,Non-Refrigerated Warehouse
+"49-10 27 STREET, QUEENS, New York, 11101",United Parcel Service,United Parcel Service,(800) 742-5877,Not Found,UPS CC Queens North,(800) 742-5877,Not Found,Non-Refrigerated Warehouse
+"1331 Travis Avenue, STATEN ISLAND, New York, 10314","United Parcel Service, Inc.","United Parcel Service, Inc.",(718) 494-9470,Not Found,UPS Customer Center,(888) 742-5877,totaltrack@ups.com,Non-Refrigerated Warehouse
+"1055 Bronx River Avenue, Bronx, New York, 10472",Prologis,Prologis,718-328-3971,Not Found,Amazon Fulfillment Center-Dyo2,888-280-4331,Not Found,Non-Refrigerated Warehouse
+"4215 Boston Post Road, BRONX, New York, 10466",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"438-440 East 91st St, New York, New York, 10128",Metropolitan Museum of Art,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"2300 Randall Ave, Bronx, New York, 10473",CM REALTY PROPERTY LL,Not Found,Not Found,Not Found,Fad 2300 Food Corp,(347) 281-8252,Not Found,Non-Refrigerated Warehouse
+"184-60 Jamaica Ave, Queens, New York, 11423",KABR Group,Not Found,Not Found,Not Found,Gotham Greens,Not Found,Not Found,Non-Refrigerated Warehouse
+"19-40 Hazen Street, Queens, New York, 11370",Hazen Street Realty LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"1011 ELTON ST, BROOKLYN, New York, 11208",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"1476 Utica Ave, Brooklyn, New York, 11234",G S I REALTY CO,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"105 EVERGREEN AVENUE, Brooklyn, New York, 11206",UOVO Holdings LLC,UOVO Holdings LLC,833-344-8686,Not Found,UOVO Art & Fashion Storage - Brooklyn,833-344-8686,Not Found,Non-Refrigerated Warehouse
+"2301 Borden ave, Queens, New York, 11101",Foo Yuan Food Products Co Inc,Not Found,(212) 925-2840,Not Found,Foo Yuan Food Products Co Inc,(212) 925-2840,Not Found,Non-Refrigerated Warehouse
+"1213 GRAND ST, Brooklyn, New York, 11211",Not Found,Not Found,Not Found,Not Found,Union Beer Distributors LLC,(718) 497-2407,Not Found,Non-Refrigerated Warehouse
+"62 Imlay St, Brooklyn, New York, 11231",Not Found,Not Found,Not Found,Not Found,Mercedes Distribution Center,+1 (718) 522-7111,Not Found,Non-Refrigerated Warehouse
+"1213 Grand Street, Brooklyn, New York, 11211",Not Found,Not Found,Not Found,Not Found,Union Beer Distributors,(718) 497-2407,Not Found,Non-Refrigerated Warehouse
+"900 138th Street Bronx, NY 10454, Bronx, New York, 10454",Not Found,Not Found,Not Found,Not Found,Parallel Products Of New England,718-585-2030,Not Found,Non-Refrigerated Warehouse
+"33-02 11 Street, Astoria, New York, 11106",CIPICO CONSTRUCTION I,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"154 Morgan ave, Brooklyn, New York, 11237",Terreno Realty Corporation,Not Found,Not Found,Not Found,A L & C Trading Inc,718-366-0955,Not Found,Non-Refrigerated Warehouse
+"414 East 101st St, Brooklyn, New York, 11236",Not Found,Not Found,Not Found,Not Found,The Avvocato Accident Attorneys,+1 (929) 432-8818,Not Found,Non-Refrigerated Warehouse
+"2615 Brooklyn Queens Expressway, Queens, New York, 11377",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"37-01 21st Street, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"383 CONCORD AVENUE, Bronx, New York, 10454",Shlomo Malki,Econocraft World Wide Mfg Inc,718-585-6463,Not Found,Econocraft World Wide Mfg Inc,718-585-6463,Not Found,Non-Refrigerated Warehouse
+"230-19 Int. Airport Center Blv, Jamaica, New York, 11413-4104","AMB Fund III NY II, LLC",Not Found,Not Found,Not Found,"Nippon Express, USA Inc",+1 718 632-2600,Not Found,Non-Refrigerated Warehouse
+"1530 MCDONALD AVE, Brooklyn, New York, 11230",MDM REALTY,Not Found,Not Found,Not Found,Iconic Distributors,718-568-5115,Not Found,Non-Refrigerated Warehouse
+"Classified NYPD Location, Bronx, New York, 10470",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"103 13th street, Brooklyn, New York, 11215",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"515 Bryant Ave # 521, Bronx, NY 10474, none, New York, 10474","515 BRYANT REALTY, LL",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"4712 Grand Ave, Queens, New York, 11378",QUEEN GRAND REALTY L,Not Found,Not Found,Not Found,MANHATTAN BEER DISTRIBUTORS,(718) 894-3700,Not Found,Non-Refrigerated Warehouse
+"58-50 52nd Avenue, Queens, New York, 11377",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"21-15 21 STREET, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"3505 Conner Street, Bronx, New York, 10475",3505 CONNER STREET LL,Not Found,Not Found,Not Found,Bronx Kia,(718) 777-0800,[email protected],Non-Refrigerated Warehouse
+"117 VERDI ST FARMINGDALE, Maspeth, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"182-09 149th Rd, Jamaica, New York, 11413",Terreno Realty Corp.,Not Found,Not Found,Not Found,"Radiant Customs Services, Inc.",(718) 995-3850,Not Found,Non-Refrigerated Warehouse
+"5860 GRAND AVE, Queens, New York, 11378",Tom Ryan,Welpak Corporation,718-391-0155,Not Found,Welpak Corporation,718-391-0155,Not Found,Non-Refrigerated Warehouse
+"1201 Metropolitan Ave, Brooklyn, New York, 11237",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"47-20 30 STREET, QUEENS, New York, 11101","JOMEIRA REALTY, LLC",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"115-40 DUNKIRK STREET, QUEENS, New York, 11412",BK HOLDING CORP,Not Found,Not Found,Not Found,Nemo Tile + Stone,Not Found,Not Found,Non-Refrigerated Warehouse
+"150-10 132nd Ave., jamaica, New York, 11434",Bolloré Logistics USA Inc.,Bolloré Logistics USA Inc.,(718) 525-8100,Not Found,Bolloré Logistics USA Inc.,(718) 525-8100,Not Found,Non-Refrigerated Warehouse
+"56-01 Maspeth Ave, Queens, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"333 Beach 95th Street AKA 95-15 Beach Channel Drive, Queens, New York, 11693",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Non-Refrigerated Warehouse
+"10615 Foster Avenue, Brooklyn, New York, 11236",Sez Foster LLC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Non-Refrigerated Warehouse
+"152 Ashland Place, Brooklyn, New York, 11201",Not Found,Not Found,Not Found,Not Found,MPG Parking - MP Ashland Parking Garage,718-522-3879,Not Found,Parking
+"435 E 55th St, New York, New York, 10022",Edwin Rivera,Garage Management Company LLC,(212) 753-8148,Not Found,Carriage Trade Garage,(212) 753-8148,Not Found,Parking
+"163 East 84th Street, New York, New York, 10028","163 East 84th Street, L.L.C.",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Parking
+"515 7th Avenue, New York, New York, 10018",515 SEVENTH AVENUE LL,Not Found,Not Found,Not Found,Central Parking System,212-398-0547,Not Found,Parking
+"201 WEST 75 STREET, New York, New York, 10023",Not Found,Not Found,Not Found,Not Found,Carousel Parking Corp / Champion Parking,212-874-0581,Not Found,Parking
+"5610 2nd Avenue, Brooklyn, New York, 11220",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Parking
+"4162 Broadway, New York, New York, 10033",Broadway Lot Owner LLC,Not Found,Not Found,Not Found,Centerpark Broadway Parking Garage,212-568-3758,[email protected],Parking
+"260 Myrtle Avenue, Brooklyn, New York, 11201",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Parking
+"98-20 97 Avenue, Queens, New York, 11416",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Parking
+"2400 Ryer Avenue, Bronx, New York, 10458",2400 Ryer Avenue Realty LLC,Not Found,Not Found,Not Found,Fine Fare,(718) 367-1800,Not Found,Parking
+"410 E 148 St, Bronx, New York, 10455",Episcopal Social Services,Not Found,718-742-1850,Not Found,Episcopal Social Services,718-742-1850,Not Found,Pre-school / Daycare
+"2170 Mcdonald Ave, Brooklyn, New York, 11233",Carmike Holding I LLC,Not Found,Not Found,Not Found,Magen David Yeshivah Early Childhood Center,718-265-3331,Not Found,Pre-school / Daycare
+"170 LAWRENCE AVENUE, BROOKLYN, New York, 11230",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Pre-school / Daycare
+"2863 Webster Avenue, Bronx, New York, 10458",DEBRON REALTY CORP.,Not Found,Not Found,Not Found,MARC Academy and Family Center,718-562-3410,Not Found,Pre-school / Daycare
+"1841 Park Avenue, New York, New York, 10035",Association to Benefit Children,Not Found,(646) 459-6175,Not Found,ABC Echo Park Early Childhood Development Center,(646) 459-6028,Not Found,Pre-school / Daycare
+"460 Atlantic Ave, Brooklyn, New York, 11217",460 Atlantic Realty Corp,Not Found,Not Found,Not Found,Strong Place for Hope Day Care,718-522-1351,Not Found,Pre-school / Daycare
+"58-71 56 DRIVE, QUEENS, New York, 11378",ALLE PROCESSING CORP,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Refrigerated Warehouse
+"58-71 56 Drive, Maspeth, New York, 11378",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Refrigerated Warehouse
+"340 Johnson Avenue, Brooklyn, New York, 11206",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Refrigerated Warehouse
+"650 Fountain Ave, Brooklyn, New York, 11208",Spencer An,"Bogopa, Inc.",(718) 346-6500,Not Found,Food Bazaar Supermarkets,(718) 346-6500,Not Found,Refrigerated Warehouse
+"1376 Cromwell Avenue, Bronx, New York, 10452",CubeSmart,CubeSmart Self Storage of the Bronx,718-588-1100,STORE0812@CUBESMART.COM,CubeSmart Self Storage of the Bronx,718-588-1100,STORE0812@CUBESMART.COM,Self-Storage Facility
+"47-36 VAN DAM STREET, Queens, New York, 11101",FBE VAN DAM,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Self-Storage Facility
+"122-20 Merrick Boulevard, Queens, New York, 11434",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage,718-525-6150,Not Found,Self-Storage Facility
+"1816 Boston Road, Bronx, New York, 10460",CubeSmart Self Storage,CubeSmart Self Storage,718-991-2999,Not Found,CubeSmart Self Storage,718-991-2999,Not Found,Self-Storage Facility
+"169-01 baisley blvd, queens, New York, 11434",Not Found,Not Found,Not Found,Not Found,Stop & Stor Baisley,718-949-8000,Not Found,Self-Storage Facility
+"5020 Broadway, New York, New York, 10034",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Self-Storage Facility
+"2990 Cropsey Avenue, Brooklyn, New York, 11214",CubeSmart Self Storage,CubeSmart Self Storage,718-373-0517,Not Found,CubeSmart Self Storage,718-373-0517,Not Found,Self-Storage Facility
+"1151 East New York Avenue, Brooklyn, New York, 11212",Not Found,Not Found,Not Found,Not Found,CubeSmart Self Storage,718-778-8800,Not Found,Self-Storage Facility
+"301 West Fordham Road, Bronx, New York, 10468",Storage Post,Storage Post,(718) 208-4838,Not Found,Storage Post Self Storage,(718) 208-4838,Not Found,Self-Storage Facility
+"252 Newport St, Brooklyn, New York, 11212","DIV HDV BROOKLYN, LLC",Not Found,Not Found,Not Found,Life Storage,(347) 305-8701,[email protected],Self-Storage Facility
+"3511 Victory Blvd, Staten Island, New York, 10314",Andover Properties LLC,Not Found,Not Found,Not Found,Storage King USA,(718) 983-0551,Not Found,Self-Storage Facility
+"2558 e 18th st, Brooklyn, New York, 11235",The Laquila Group Inc,Not Found,(718) 368-2432,Not Found,Not Found,Not Found,Not Found,Supermarket / Grocery Store
+"1507 Coney Island ave, Brooklyn, New York, 11230",288 Willoughby Holdings LLC,Not Found,Not Found,Not Found,Pomegranate Supermarket,718-951-7112,[email protected],Supermarket / Grocery Store
+"214 3rd St, Brooklyn, New York, 11215",WFM Properties Brooklyn LLC,Not Found,Not Found,Not Found,Whole Foods Market,(718) 907-3622,Not Found,Supermarket / Grocery Store
+"262 11 Avenue, New York, New York, 10001",DEZER PROPERTIES 11TH AVENUE,DEZER PROPERTIES CO.,Not Found,Not Found,Not Found,Not Found,Not Found,Vehicle Dealership
+"48-40 34th St, Queens, New York, 11101",Not Found,Not Found,Not Found,Not Found,Electrical Industry Training Center,718-433-9174,Not Found,Vocational School
+"1215 E. GUN HILL RD, BRONX, New York, 10469",Constantine Monzidelis,Gun Post Bildinic Lanes Corp.,(718) 881-0331,bowlerland@gmail.com,Gun Post Lanes,(718) 881-0331,bowlerland@gmail.com,Bowling Alley
+"141 East Service Road, Staten Island, New York, 10314",SI Showplace LLC,Not Found,Not Found,Not Found,Showplace Entertainment Center,(718) 477-2695,Not Found,Bowling Alley
+"30-05 Whitestone Expressway, Queens, New York, 11354",Marco Macaluso,Mar Mar Realty LLC,(718) 353-6300,info@whitestonebowlinglanes.com,Whitestone Bowling Lanes,(718) 353-6300,info@whitestonebowlinglanes.com,Bowling Alley
+"98-18 Rockaway Boulevard, Queens, New York, 11417",Marc Resnick,"RF Realty Holding, LLC",Not Found,Not Found,Bowl 360 Ozone Park,718-843-5553,Not Found,Bowling Alley
